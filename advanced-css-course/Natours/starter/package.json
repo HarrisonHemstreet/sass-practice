@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass /home/harry/css-sass-practice/advanced-css-course/Natours/starter/css/practice.scss /home/harry/css-sass-practice/advanced-css-course/Natours/starter/css/style.css"
   },
   "author": "",
   "license": "ISC",
